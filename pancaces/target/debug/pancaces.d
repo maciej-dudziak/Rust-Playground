@@ -1,0 +1,1 @@
+G:\Programming\ Projects\Rust\Playground\pancaces\target\debug\pancaces.exe: G:\Programming\ Projects\Rust\Playground\hello_macro\hello_macro_derive\src\lib.rs G:\Programming\ Projects\Rust\Playground\hello_macro\src\lib.rs G:\Programming\ Projects\Rust\Playground\pancaces\src\main.rs
